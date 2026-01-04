@@ -1,0 +1,21 @@
+2. Hashing
+2.1 Frequency Map
+Used for:
+Counting, existence, complements
+
+LeetCode Problems:
+
+https://leetcode.com/problems/two-sum/
+https://leetcode.com/problems/valid-anagram/
+https://leetcode.com/problems/group-anagrams/
+https://leetcode.com/problems/top-k-frequent-elements/
+https://leetcode.com/problems/first-unique-character-in-a-string/
+
+2.2 Hash Set Pattern
+Used for:
+Detect duplicates, cycles
+
+LeetCode Problems:
+
+https://leetcode.com/problems/contains-duplicate/
+https://leetcode.com/problems/longest-consecutive-sequence/
