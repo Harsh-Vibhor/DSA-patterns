@@ -1,0 +1,54 @@
+8. Graphs
+8.1 BFS & DFS
+LeetCode Problems:
+
+https://leetcode.com/problems/number-of-islands/
+https://leetcode.com/problems/flood-fill/
+https://leetcode.com/problems/max-area-of-island/
+https://leetcode.com/problems/rotting-oranges/
+
+8.2 Topological Sort
+LeetCode Problems:
+
+https://leetcode.com/problems/course-schedule/
+https://leetcode.com/problems/course-schedule-ii/
+
+8.3 Union Find
+What it is:
+Disjoint Set data structure to manage dynamic connectivity.
+
+Used for:
+
+Detecting cycles
+Connected components
+LeetCode Problems:
+
+https://leetcode.com/problems/redundant-connection/
+https://leetcode.com/problems/number-of-provinces/
+https://leetcode.com/problems/accounts-merge/
+
+8.4 Dijkstra’s Algorithm (Shortest Path)
+What it is:
+Greedy algorithm using a min-heap to find the shortest path from a source to all nodes (non-negative weights).
+
+Used for:
+
+Shortest path problems
+Weighted graphs
+Minimum cost / time problems
+LeetCode Problems:
+
+https://leetcode.com/problems/network-delay-time/
+https://leetcode.com/problems/path-with-minimum-effort/
+https://leetcode.com/problems/cheapest-flights-within-k-stops/
+https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/
+
+8.2 Topological Sort
+Problems:
+
+https://leetcode.com/problems/course-schedule/
+
+8.3 Union Find
+Problems:
+
+https://leetcode.com/problems/redundant-connection/
