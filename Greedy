@@ -1,0 +1,30 @@
+11. Greedy
+What it is:
+Make the locally optimal choice at each step, trusting it leads to a global optimum.
+
+Used for:
+Intervals, scheduling, optimization, resource allocation
+
+11.1 Interval & Scheduling Greedy
+LeetCode Problems:
+
+https://leetcode.com/problems/non-overlapping-intervals/
+https://leetcode.com/problems/merge-intervals/
+https://leetcode.com/problems/meeting-rooms/
+https://leetcode.com/problems/meeting-rooms-ii/
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+
+11.2 Jump / Reachability Greedy
+LeetCode Problems:
+
+https://leetcode.com/problems/jump-game/
+https://leetcode.com/problems/jump-game-ii/
+https://leetcode.com/problems/gas-station/
+
+11.3 Optimization Greedy
+LeetCode Problems:
+
+https://leetcode.com/problems/assign-cookies/
+https://leetcode.com/problems/boat-to-save-people/
+https://leetcode.com/problems/task-scheduler/
+https://leetcode.com/problems/reorganize-string/
