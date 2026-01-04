@@ -1,0 +1,29 @@
+3. Linked List
+3.1 Fast & Slow Pointer
+LeetCode Problems:
+
+https://leetcode.com/problems/linked-list-cycle/
+https://leetcode.com/problems/middle-of-the-linked-list/
+https://leetcode.com/problems/palindrome-linked-list/
+
+3.2 Reversal Pattern
+LeetCode Problems:
+
+https://leetcode.com/problems/reverse-linked-list/
+https://leetcode.com/problems/reverse-nodes-in-k-group/
+https://leetcode.com/problems/swap-nodes-in-pairs/
+
+3.3 Merge Pattern
+LeetCode Problems:
+
+https://leetcode.com/problems/merge-two-sorted-lists/
+https://leetcode.com/problems/merge-k-sorted-lists/
+
+3.2 Reversal Pattern
+Used for:
+
+Reverse entire list or parts
+Problems:
+
+https://leetcode.com/problems/reverse-linked-list/
+https://leetcode.com/problems/reverse-nodes-in-k-group/
